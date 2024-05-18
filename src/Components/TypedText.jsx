@@ -7,7 +7,7 @@ const TypedText = () => {
     const typeData = new Typed(".role", {
       strings: [
         "Full stack Developer",
-        "Web Development",
+        "Web Developer",
         "Backend Developer",
         "Programmer"
       ],
